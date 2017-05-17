@@ -1,0 +1,27 @@
+﻿
+User-agent: *
+Disallow: 
+
+User-agent: Yandex
+Disallow: 
+User-agent: Mail.Ru
+Disallow: 
+User-agent: StackRambler
+Disallow: 
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: Aport
+Disallow: 
+User-agent: msnbot
+Disallow: 
+User-agent: psbot
+Disallow: 
+User-agent: yahoo-slurp
+Disallow: 
+
+Host: 35mmrp.ru
+Sitemap: http://35mmrp.ru/sitemap.xml
