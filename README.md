@@ -7,6 +7,8 @@
 6. Элементы управления  в папке menu
 7. Страницы (за исключением: index.php, photographer.php, cities.php) адаптированны под 'любй' формат.  
 За это отвечает (bootstrap-responsive.min.css) указан в комментарии на странице.
+8. Если описание README.md  некорректно, напишите в 35mmrp.txt - что заменить исправить.
+9. Мой первый проект. Благодарю за понимание.
 #
 Предложения и рекомендации по коду или иное вносите в  файле 35mmrp.txt или на усмотрение.
 ##
@@ -18,6 +20,8 @@
 5. Site elements are connected separately, for example: include ("news / home_news.php");
 6. Controls in the menu folder
 7. Pages (except for: index.php, photographer.php, cities.php) are adapted to 'any' format.
+8. If the description of README.md is incorrect, write in 35mmrp.txt - what to replace the fix.
+9. My first project. Thank you for understanding.
 For this answer (bootstrap-responsive.min.css) is listed in the comments on the page.
 #
 Suggestions and recommendations on the code or otherwise make in the file 35mmrp.txt or at the discretion.
