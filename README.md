@@ -1,4 +1,4 @@
-# 35mmrp некоммерческий проект о фотографии
+# 35mmrp Некоммерческий проект о фотографии
 1. Сайт доступен по ссылке http://35mmrp.ru/
 2. В файлах analyticstracking.php и в файле tagmanager.php убрана статистическая информация 
 3. В папке img отсутствуют изображения за исключением папки cover (только для примера). Если необходимы (напишите в 35mmrp.txt)
@@ -12,7 +12,7 @@
 #
 Предложения и рекомендации по коду или иное вносите в  файле 35mmrp.txt или на усмотрение.
 ##
-# 35mmrp  non-commercial project about photography
+# 35mmrp  Non Profit project about photography
 1. The site is available at http://35mmrp.ru/
 2. In the files analyticstracking.php and in the file tagmanager.php the statistical information
 3. There are no images in the img folder except for the folder cover (for example only). If necessary (write in 35mmrp.txt)
