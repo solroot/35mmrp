@@ -12,7 +12,7 @@
 #
 Предложения и рекомендации по коду или иное вносите в  файле 35mmrp.txt или на усмотрение.
 ##
-# 35mmrp Nonprofit project about photography
+# 35mmrp  non-commercial project about photography
 1. The site is available at http://35mmrp.ru/
 2. In the files analyticstracking.php and in the file tagmanager.php the statistical information
 3. There are no images in the img folder except for the folder cover (for example only). If necessary (write in 35mmrp.txt)
