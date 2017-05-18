@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -11,6 +11,9 @@
 </url>
 <url>
   <loc>http://35mmrp.ru/photographer.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities.php</loc>
 </url>
 <url>
   <loc>http://35mmrp.ru/first-foto.php</loc>
@@ -68,5 +71,33 @@
 </url>
 <url>
   <loc>http://35mmrp.ru/photographer/dmitriy-baltermants.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities/pyatigorsk.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities/poltava.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities/novosibirsk.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities/vladivostok.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities/mogilev.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities/skopin.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities/zlatoust.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/cities/nizhny_novgorod.php</loc>
+</url>
+<url>
+  <loc>http://35mmrp.ru/404.html</loc>
+  <lastmod>2017-05-18T19:27:31+00:00</lastmod>
 </url>
 </urlset>
